@@ -8,3 +8,9 @@ _(See command line app here: https://github.com/RParker505/intro-to-python/)_
 ### Project Deliverables
 
 _Follow along with each stage of the project by navigating to the exercise folders in the repository_
+
+
+#### Exercise 2.1: Getting Started with Django
+- Explain MVT architecture and compare it with MVC
+- Summarize Django’s benefits and drawbacks 
+- Install and get started with Django
