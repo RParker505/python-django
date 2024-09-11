@@ -14,3 +14,9 @@ _Follow along with each stage of the project by navigating to the exercise folde
 - Explain MVT architecture and compare it with MVC
 - Summarize Django’s benefits and drawbacks 
 - Install and get started with Django
+
+#### Exercise 2.2: Django Project Set Up
+-	Describe the basic structure of a Django project 
+-	Summarize the difference between projects and apps
+-	Create a Django project and run it locally
+-	Create a superuser for a Django web application
