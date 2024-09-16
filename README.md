@@ -20,3 +20,9 @@ _Follow along with each stage of the project by navigating to the exercise folde
 -	Summarize the difference between projects and apps
 -	Create a Django project and run it locally
 -	Create a superuser for a Django web application
+
+#### Exercise 2.3: Django Models
+-	Discuss Django models, the “M” part of Django’s MVT architecture
+-	Create apps and models representing different parts of your web application 
+-	Write and run automated tests
+
