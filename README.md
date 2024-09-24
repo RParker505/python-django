@@ -31,3 +31,7 @@ _Follow along with each stage of the project by navigating to the exercise folde
 -	Explain how the “V” and “T” parts of MVT architecture work
 -	Create a frontend page for your web application
 
+#### Exercise 2.5: Django MVT Revisited
+-	Add images to the model and display them on the frontend of your application
+-	Create complex views with access to the model
+-	Display records with views and templates
