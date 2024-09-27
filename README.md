@@ -35,3 +35,8 @@ _Follow along with each stage of the project by navigating to the exercise folde
 -	Add images to the model and display them on the frontend of your application
 -	Create complex views with access to the model
 -	Display records with views and templates
+
+#### Exercise 2.6: User Authentication in Django
+-	Create authentication for your web application
+-	Use GET and POST methods 
+-	Password protect your web application’s views
