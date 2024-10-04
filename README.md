@@ -40,3 +40,9 @@ _Follow along with each stage of the project by navigating to the exercise folde
 -	Create authentication for your web application
 -	Use GET and POST methods 
 -	Password protect your web application’s views
+
+#### Exercise 2.7: Data Analysis and Visualization in Django
+-	Work on elements of two-way communication like creating forms and buttons
+-	Implement search and visualization (reports/charts) features
+-	Use QuerySet API, DataFrames (with pandas), and plotting libraries (with matplotlib)
+
