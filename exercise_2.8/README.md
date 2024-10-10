@@ -35,4 +35,4 @@ In case of failed tests, fix the bug and run again. Repeat until all tests have 
 
 #### Step 3: Upload Web App to Server
 
-🚧_Coming Soon!_🚧
+🚧 _Coming Soon!_ 🚧
