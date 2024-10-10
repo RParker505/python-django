@@ -46,3 +46,8 @@ _Follow along with each stage of the project by navigating to the exercise folde
 -	Implement search and visualization (reports/charts) features
 -	Use QuerySet API, DataFrames (with pandas), and plotting libraries (with matplotlib)
 
+#### Exercise 2.8: Deploying a Django Application
+-	Enhance user experience and look and feel of your web application using CSS and JS
+-	Deploy your Django web application on a web server 
+-	Curate project deliverables for your portfolio
+
